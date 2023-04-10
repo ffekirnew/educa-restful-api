@@ -1,0 +1,6 @@
+django
+django-embed-video
+django-memcache-status
+django-braces
+python-memcached
+django-memcache-status
